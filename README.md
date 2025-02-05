@@ -16,6 +16,7 @@ The goal of this project is to fine-tune a small language model (DistilBERT) on 
 
 ## Files
 - 'fine_tune_llm.ipynb': The notebook contains all the steps for fine-tuning the model.
+- https://www.kaggle.com/code/adityasonvar/finetune-llm
 - 'sst2_subset.csv' : the csv contains the subset of the dataset. it contains the reduced set to 1000 samples
 
 IMPORTANT --> My previous submission used the entire dataset containing about 65000 samples so in the updated task i actually had to decrease it instead of increasing it.
